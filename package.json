@@ -1,6 +1,6 @@
 {
   "name": "djarin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "types": "module",
   "description": "A CLI tool for creating React projects with ease.",
   "author": {
