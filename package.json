@@ -1,0 +1,20 @@
+{
+  "name": "djarin",
+  "version": "0.1.0",
+  "description": "A CLI tool for creating React projects with ease.",
+  "author": "Matteo Gabriele",
+  "types": "module",
+  "bin": {
+    "djarin": "./src/index.js"
+  },
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.3.1",
+    "mustache": "^4.2.0",
+    "ora": "^8.0.1",
+    "unique-names-generator": "^4.7.1"
+  }
+}
