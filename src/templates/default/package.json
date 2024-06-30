@@ -4,6 +4,11 @@
   "description": "{{project.description}}",
   "version": "0.0.0",
   "type": "module",
+  "files": [
+    "src",
+    "src/**/*/.npmrc",
+    "src/**/*/.gitignore"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
